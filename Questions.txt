@@ -1,0 +1,9 @@
+
+===========MOBILE ANALYSIS=================
+
+1.Sum of price by 5G availability
+2.Sum of total mobile by battery capacity range
+3.Sum of total mobile by operating system type
+4.Sum of total mobile by internal storage
+5. Sum of total mobile by brands
+6.Sum of total mobiles by selfie camera
